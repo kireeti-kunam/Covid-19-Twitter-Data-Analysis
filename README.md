@@ -1,8 +1,8 @@
 # Covid-19-Twitter-Data-Analysis
 
 ## prerequisites:
- - Basic python libraires knowledge. Such as Pandas,Matplotlib
- - Bssic idea regarding sentiment analysis.
+ -Basic python libraires knowledge. Such as Pandas,Matplotlib
+ -Basic idea regarding sentiment analysis.
 - I performed basic analysis on covid-19 twitter data set provided in kaggle.
 - In this project we are performing cleaning the data, sentiment analysis and the answering the basic questions.
 - Here I analysed how sentiments in the tweets are changing over the period of time, What are the most frequent used words in positive tweets and negative tweeets
