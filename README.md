@@ -3,7 +3,8 @@
 ## prerequisites:
  - Basic python libraires knowledge. Such as Pandas,Matplotlib
  - Basic idea regarding sentiment analysis.
- <br>
+<br>
+
 ## Summary:
 - I performed basic analysis on covid-19 twitter data set provided in kaggle.
 - In this project we are performing cleaning the data, sentiment analysis and the answering the basic questions.
